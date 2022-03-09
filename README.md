@@ -1,0 +1,1 @@
+# azure-key-vault-with-aks-managed-identity--postgreqsl
